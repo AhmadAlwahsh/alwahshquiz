@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/alwahshquiz/static/js/main.09ec9624.js",
+    "static/media/back.jpg": "/alwahshquiz/static/media/back.4fab32df4f5ddc895b7c.jpg",
+    "index.html": "/alwahshquiz/index.html",
+    "main.09ec9624.js.map": "/alwahshquiz/static/js/main.09ec9624.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.09ec9624.js"
+  ]
+}
